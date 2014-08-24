@@ -1,0 +1,20 @@
+{
+    "hvar":
+    {
+        "title" : "Hvar",
+        "date" : "July 2013",
+        "soon" : false
+    },
+    "salcombe":
+    {
+        "title" : "Salcombe et al",
+        "date" : "August 2013",
+        "soon" : true
+    },
+    "iceland":
+    {
+        "title" : "Nor&eth;urlj&oacute;sin, O.fl.",
+        "date" : "15<sup>th</sup> &ndash; 19<sup>th</sup> February 2014",
+        "soon" : false
+    }
+}

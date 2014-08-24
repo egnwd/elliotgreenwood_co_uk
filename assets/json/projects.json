@@ -1,0 +1,208 @@
+{
+    "work":
+    {
+        "english-harbour-yachts": 
+        {
+            "name" : "English Harbour Yachts",
+            "id" : "ehy",
+            "description" : "Branding, stationery & web design for a luxury english boat builder.",
+            "role" : "Everything from label making to website building.",
+            "link" : "http://englishharbouryachts.com",
+            "preview" : "place-ehy-1.png",
+            "images" : 
+            [
+                "place-ehy-1.png",
+                "place-ehy-2.png",
+                "place-ehy-3.jpg",
+                "place-ehy-4.jpg"
+            ]
+        },
+        "youseven": 
+        {
+            "name" : "Youseven",
+            "id" : "you",
+            "description" : "I developed the portfolio of youseven - a.k.a Wil Barker. The site was designed by him and showcases the work he's done, including work for famous traceur 'Livewire'.",
+            "role" : "Wesite Development",
+            "link" : "http://youseven.co.uk",
+            "preview" : "place-you-1.png",
+            "images" : 
+            [
+                "place-you-2.png"
+            ]
+        },
+        "storm": 
+        {
+            "name" : "Storm Freerun",
+            "id" : "stm",
+            "description" : "I developed the new website of Storm Freerun, designed by <a href=\"http://youseven.co.uk\">Wil Barker</a>.",
+            "role" : "Wesite Development",
+            "link" : "http://www.stormfreerun.com",
+            "preview" : "place-stm-1.jpg",
+            "images" : 
+            [
+                "place-stm-2.jpg"
+            ]
+        },
+        "commucci": 
+        {
+            "name" : "Commucci",
+            "id" : "com",
+            "description" : "Fashion, food & lifestyle blog.",
+            "role" : "Logo creation, website design & development.",
+            "link" : "http://commucci.co.uk",
+            "preview" : "place-com-1.png",
+            "images" : 
+            [
+                "place-com-2.png",
+                "place-com-3.png"
+            ]
+        },
+        "neonmob": 
+        {
+            "name" : "Neonmob Illustrations",
+            "id" : "mob",
+            "description" : "Some artwork I've created for a Neonmob set. Some isn't ready yet but will be soon! <br> Neonmob is a website where you can collect digital art created by talented artists.",
+            "role" : "Creation of artwork for a set.",
+            "link" : "https://www.neonmob.com/r/9HA3Q/",
+            "preview" : "place-mob-1.png",
+            "images" : 
+            [
+                "place-mob-2.png",
+                "place-mob-3.png",
+                "place-mob-4.png",
+                "place-mob-5.png",
+                "place-mob-6.png",
+                "place-mob-7.png",
+                "place-mob-8.png"
+            ]
+        },
+         "ashas": 
+        {
+            "name" : "Asha's",
+            "id" : "ash",
+            "description" : "E-Commerce store for a local, but rapdily expanding, gift shop selling a wide range of home products - including Annie Sloan Chalk Paint&#0153;.",
+            "role" : "Design & Development",
+            "link" : "http://ashas.net",
+            "preview" : "place-ash-1.png",
+            "images" : 
+            [
+                "place-ash-4.png",
+                "place-ash-3.png",
+                "place-ash-2.png"
+            ]
+        },
+        "50states": 
+        {
+            "name" : "50 States",
+            "id" : "50",
+            "description" : "Can you name all 50 states? <br> In an attempt to learn all 50 States I made this fun, little quiz.",
+            "role" : "Creation",
+            "link" : "http://elliotgreenwood.co.uk/lab/50states",
+            "preview" : "place-50-1.png",
+            "images" : 
+            [
+                "place-50-1.png"
+            ]
+        },
+        "countdown": 
+        {
+            "name" : "Countdown",
+            "id" : "cd",
+            "description" : "My friends & I love the numbers game on countdown and we wanted to play it during our free time at school.",
+            "role" : "Creation",
+            "link" : "http://elliotgreenwood.co.uk/lab/countdown",
+            "preview" : "place-cd-1.png",
+            "images" : 
+            [
+                "place-cd-1.png"
+            ]
+        }
+    },
+    "store": 
+    {
+        "store/iceberg":
+        {
+            "name" : "Iceberg",
+            "id" : "ice  ",
+            "description" : "Beautiful Gicl&eacute;e print on ultra-smooth paper, iPhone cases & skins — all from s&oslash;ciety6.",
+            "link" : "http://society6.com/elliotgreenwood/Iceberg-uj8_Print",
+            "sizes":
+            [
+                {
+                    "name" : "Mini",
+                    "size" : "6&quot; &times; 10&quot;",
+                    "price" : "$18.72",
+                    "link" : "#1=45"
+                },
+                {
+                    "name" : "Small",
+                    "size" : "11&quot; &times; 19&quot;",
+                    "price" : "$24.96",
+                    "link" : "#1=46"
+                },
+                {  
+                    "name" : "Medium",
+                    "size" : "13&quot; &times; 23&quot;",
+                    "price" : "$30.16",
+                    "link" : "#1=1"
+                },
+                {
+                    "name" : "Large",
+                    "size" : "16&quot; &times; 28&quot;",
+                    "price" : "$35.36",
+                    "link" : "#1=2"
+                },
+                {
+                    "name" : "Extra Large",
+                    "size" : "22&quot; &times; 40&quot;",
+                    "price" : "$52.00",
+                    "link" : "#1=3"
+                }
+            ],
+            "preview" : "place-low-5.jpg",
+            "images" : 
+            [
+                "place-low-5.jpg"
+            ]
+        },
+        "store/space":
+        {
+            "name" : "Space",
+            "id" : "spc",
+            "description" : "Beautiful Gicl&eacute;e print on ultra-smooth paper, iPhone cases & skins — all from s&oslash;ciety6.",
+            "link" : "#",
+            "sizes":
+            [
+                {
+                    "price" : "$18.72"
+                }
+            ],            "preview" : "place-low-4.jpg",
+            "images" : 
+            [
+                "place-low-4.jpg"
+            ]
+        },
+        "store/alice":
+        {
+            "name" : "We're all mad here",
+            "id" : "ali",
+            "description" : "A quote from &ldquo;Alice's Adventures in Wonderland&rdquo; surrounded by fun illustrations from the story. It's a 16&quot;&nbsp;&times;&nbsp;24&quot; 3 colour screen printed poster.",
+            "link" : "#",
+            "sizes":
+            [
+                {
+                    "price" : "&pound;20"
+                }
+            ],
+            "preview" : "place-ali-1.png",
+            "images" : 
+            [
+                "place-ali-1.png",
+                "place-ali-2.png",
+                "place-ali-3.png",
+                "place-ali-4.png"
+                
+            ]
+        }               
+    }
+}
