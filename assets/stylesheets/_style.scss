@@ -155,8 +155,8 @@ ul.contact-links {
 }
 	.dribbble-icon,
 	.email-icon,
-	.neonmob-icon,
-	.rdio-icon,
+	.github-icon,
+	.ig-icon,
 	.twitter-icon{
 		display: inline-block;
 		position: relative;
@@ -181,11 +181,11 @@ ul.contact-links {
 	{
 		background-position:-64px 0px;
 	}
-	.neonmob-icon
+	.github-icon
 	{
 		background-position:0px -64px;
 	}
-	.rdio-icon
+	.ig-icon
 	{
 		background-position:0px -128px;
 	}
@@ -366,7 +366,7 @@ ul.mobile.contact {
 			ul.contact-links li {width:32px;padding: 16px 16px 0px;}
 			.dribbble-icon,
 			.email-icon,
-			.neonmob-icon,
+			.github-icon,
 			.rdio-icon,
 			.twitter-icon{
 				width:32px;
@@ -380,7 +380,7 @@ ul.mobile.contact {
 			{
 				background-position:-32px 0px;
 			}
-			.neonmob-icon
+			.github-icon
 			{
 				background-position:0px -32px;
 			}
@@ -442,7 +442,7 @@ ul.contact-links {
 	height: auto;
 	margin-bottom: 0px;
 }
-.dribbble-icon, .email-icon, .neonmob-icon, .rdio-icon, .twitter-icon {
+.dribbble-icon, .email-icon, .github-icon, .rdio-icon, .twitter-icon {
  width: 32px;
  height:32px;
  background-size: 200%;
@@ -461,7 +461,7 @@ footer h4 {
 	{
 		background-position:-32px 0px;
 	}
-	.neonmob-icon
+	.github-icon
 	{
 		background-position:0px -32px;
 	}

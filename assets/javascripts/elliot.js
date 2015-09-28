@@ -89,18 +89,18 @@ $(document).ready(function(){
 		function () {
 			$('#contact-text').html('Where you can find me.');
 	});
-	$('ul.contact-links li.neonmob a').hover(
+	$('ul.contact-links li.github a').hover(
 		function() {
 
-			$('#contact-text').html('NeonMob');
+			$('#contact-text').html('Github');
 		},
 		function () {
 			$('#contact-text').html('Where you can find me.');
 	});
-	$('ul.contact-links li.rdio a').hover(
+	$('ul.contact-links li.ig a').hover(
 		function() {
 
-			$('#contact-text').html('Rdio');
+			$('#contact-text').html('Instagram');
 		},
 		function () {
 			$('#contact-text').html('Where you can find me.');
