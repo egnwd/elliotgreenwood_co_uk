@@ -1,7 +1,7 @@
 {
     "work":
     {
-        "english-harbour-yachts": 
+        "english-harbour-yachts":
         {
             "name" : "English Harbour Yachts",
             "id" : "ehy",
@@ -9,7 +9,7 @@
             "role" : "Everything from label making to website building.",
             "link" : "http://englishharbouryachts.com",
             "preview" : "place-ehy-1.png",
-            "images" : 
+            "images" :
             [
                 "place-ehy-1.png",
                 "place-ehy-2.png",
@@ -17,7 +17,7 @@
                 "place-ehy-4.jpg"
             ]
         },
-        "youseven": 
+        "youseven":
         {
             "name" : "Youseven",
             "id" : "you",
@@ -25,12 +25,12 @@
             "role" : "Wesite Development",
             "link" : "http://youseven.co.uk",
             "preview" : "place-you-1.png",
-            "images" : 
+            "images" :
             [
                 "place-you-2.png"
             ]
         },
-        "storm": 
+        "storm":
         {
             "name" : "Storm Freerun",
             "id" : "stm",
@@ -38,12 +38,12 @@
             "role" : "Wesite Development",
             "link" : "http://www.stormfreerun.com",
             "preview" : "place-stm-1.jpg",
-            "images" : 
+            "images" :
             [
                 "place-stm-2.jpg"
             ]
         },
-        "commucci": 
+        "commucci":
         {
             "name" : "Commucci",
             "id" : "com",
@@ -51,13 +51,13 @@
             "role" : "Logo creation, website design & development.",
             "link" : "http://commucci.co.uk",
             "preview" : "place-com-1.png",
-            "images" : 
+            "images" :
             [
                 "place-com-2.png",
                 "place-com-3.png"
             ]
         },
-        "neonmob": 
+        "neonmob":
         {
             "name" : "Neonmob Illustrations",
             "id" : "mob",
@@ -65,7 +65,7 @@
             "role" : "Creation of artwork for a set.",
             "link" : "https://www.neonmob.com/r/9HA3Q/",
             "preview" : "place-mob-1.png",
-            "images" : 
+            "images" :
             [
                 "place-mob-2.png",
                 "place-mob-3.png",
@@ -76,7 +76,7 @@
                 "place-mob-8.png"
             ]
         },
-         "ashas": 
+         "ashas":
         {
             "name" : "Asha's",
             "id" : "ash",
@@ -84,14 +84,14 @@
             "role" : "Design & Development",
             "link" : "http://ashas.net",
             "preview" : "place-ash-1.png",
-            "images" : 
+            "images" :
             [
                 "place-ash-4.png",
                 "place-ash-3.png",
                 "place-ash-2.png"
             ]
         },
-        "50states": 
+        "50states":
         {
             "name" : "50 States",
             "id" : "50",
@@ -99,12 +99,12 @@
             "role" : "Creation",
             "link" : "http://elliotgreenwood.co.uk/lab/50states",
             "preview" : "place-50-1.png",
-            "images" : 
+            "images" :
             [
                 "place-50-1.png"
             ]
         },
-        "countdown": 
+        "countdown":
         {
             "name" : "Countdown",
             "id" : "cd",
@@ -112,13 +112,31 @@
             "role" : "Creation",
             "link" : "http://elliotgreenwood.co.uk/lab/countdown",
             "preview" : "place-cd-1.png",
-            "images" : 
+            "images" :
             [
                 "place-cd-1.png"
             ]
+        },
+        "davidthomson":
+        {
+            "name" : "David Thomson - Wedding Photographer",
+            "id" : "dt",
+            "description" : "A new logo photo Austrailia-based wedding photographer David Thomson, featuring a bold, yet delicate feather. Some stamps and leather emboss versions were also made, as well as inverted colours for other backgrounds.",
+            "role" : "Design &amp; Creation",
+            "link" : "",
+            "preview" : "place-dt-1.png",
+            "images" :
+            [
+                "place-dt-1.png",
+                "place-dt-2.png",
+                "place-dt-3.png",
+                "place-dt-4.png",
+                "place-dt-5.png",
+                "place-dt-6.png"
+            ]
         }
     },
-    "store": 
+    "store":
     {
         "store/iceberg":
         {
@@ -140,7 +158,7 @@
                     "price" : "$24.96",
                     "link" : "#1=46"
                 },
-                {  
+                {
                     "name" : "Medium",
                     "size" : "13&quot; &times; 23&quot;",
                     "price" : "$30.16",
@@ -160,7 +178,7 @@
                 }
             ],
             "preview" : "place-low-5.jpg",
-            "images" : 
+            "images" :
             [
                 "place-low-5.jpg"
             ]
@@ -177,7 +195,7 @@
                     "price" : "$18.72"
                 }
             ],            "preview" : "place-low-4.jpg",
-            "images" : 
+            "images" :
             [
                 "place-low-4.jpg"
             ]
@@ -195,14 +213,14 @@
                 }
             ],
             "preview" : "place-ali-1.png",
-            "images" : 
+            "images" :
             [
                 "place-ali-1.png",
                 "place-ali-2.png",
                 "place-ali-3.png",
                 "place-ali-4.png"
-                
+
             ]
-        }               
+        }
     }
 }

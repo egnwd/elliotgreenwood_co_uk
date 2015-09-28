@@ -11,6 +11,7 @@
         <div class="one third">
           <?php echo build('work', 'ashas');?>
           <?php echo build('work', 'youseven');?>
+          <?php echo build('work', 'davidthomson');?>
         </div>
     </div>
   </div>
