@@ -78,7 +78,7 @@ This is the **North American** tectonic plate, we were standing on the **Eurasia
 ##Day 5
 ###&#126;12 Hours Travelling {.small}
 ####Bl&aacute;a l&oacute;ni&eth; (Blue Lagoon)
-*Image coming soon!*
+
 
 [^1]: The &#8216;Aurora Borealis&#8217; *or* &#8216;Northern Lights&#8217; are what this note is named after &mdash; Nor&eth;urlj&oacute;sin. Literally &#8216;Aurora Borealis&#8217; means &#8216;The Dawn&#8217;.
 [^2]: The Kp Index is what is used to rank the activity of the Aurora Borealis, similar to the Richter Scale used for Earthquakes.
